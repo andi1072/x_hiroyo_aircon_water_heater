@@ -1,0 +1,8 @@
+Dockerfile
+.dockerignore
+
+apps/.git
+# apps/.env
+apps/.gitignore
+apps/tests
+apps/database/migrations
