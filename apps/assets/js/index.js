@@ -25,7 +25,7 @@ let dtHumanParse = function (isDateTime) {
 // Init API
 $.ajax({
     type: 'GET',
-    url: `https://app.xenxor.com/api/monitor/d/49D80A`,
+    url: `https://app.xenxor.com/api/monitor/d/49EB09`,
     dataType: 'json',
     contentType: false,
     cache: false,
